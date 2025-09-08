@@ -1,0 +1,2 @@
+"I typed a sentance about python snakes. However, the sentance occures as an error with just words typed and nothing else, so I typed two qoutation, one at the sentance's beggining, and the other one at the sentance's end."
+"Pythons are interesting snakes."
