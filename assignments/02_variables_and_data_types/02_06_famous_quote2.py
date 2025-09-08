@@ -1,0 +1,6 @@
+message = ("famous_person = Stan Lee")
+print(message)
+message = ('Famous_person once said, "If you are interested in what you do, that keeps you going."')
+print(message)
+message = ('Famous_person once said, "If you are interested in what you do, that keeps you going."')
+print(message)
