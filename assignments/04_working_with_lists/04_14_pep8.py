@@ -1,0 +1,1 @@
+#From my understanding, PEP 8 is the idea of how to write proper code. It turns out that everything that we have done up until this point has been apart of PEP 8. That includes the rules with lists, slices and even for loops. I have personally come to learn a lot about coding in such a short amount of time. However, I think that the PEP 8 method will really come in handy.
