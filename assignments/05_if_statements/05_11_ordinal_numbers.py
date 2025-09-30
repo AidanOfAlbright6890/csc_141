@@ -1,0 +1,93 @@
+ordinal_numbers = ["1st 2nd 3rd 4th 5th 6th 7th 8th 9th"]
+for ordinal_number in ordinal_numbers:
+    if ordinal_number:
+     print(ordinal_number)
+    elif ordinal_number:
+       print("1st 2nd 3rd 4th 5th 6th 7th 8th 9th")
+    else:
+       print("1st 2nd 3rd 4th 5th 6th 7th 8th 9th")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
